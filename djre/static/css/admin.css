@@ -1,0 +1,69 @@
+a {
+  text-decoration: none !important;
+}
+
+#header {
+  min-height: 50px;
+  background: #10284e;
+  color: #fff;
+}
+
+#branding h1 {
+  color: #fff;
+}
+
+a:link,
+a:visited {
+  color: #10284e;
+}
+
+div.breadcrumbs {
+  background: #30caa0;
+  color: #fff;
+}
+
+div.breadcrumbs a {
+  color: #333;
+}
+
+div.breadcrumbs a:hover {
+  color: #fff;
+}
+
+.module h2,
+.module caption,
+.inline-group h2 {
+  background: #10284e;
+}
+
+#nav-sidebar .current-app .section:link, #nav-sidebar .current-app .section:visited {
+  color: #fff;
+}
+
+#nav-sidebar .current-model {
+  background: #ccc;
+}
+
+.button, input[type=submit], 
+input[type=button],
+.submit-row input,
+a.button {
+  background: #10284e;
+  color: white;
+}
+
+.button.default, 
+input[type=submit].default, 
+.submit-row input.default {
+  background: #30caa0;
+}
+
+.button.default:hover, 
+input[type=submit].default:hover, 
+.submit-row input.default:hover {
+  background: rgb(10, 167, 10);
+}
+
+.object-tools a {
+  background-color: #10284e !important;
+}
