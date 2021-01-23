@@ -43,8 +43,7 @@ img {
 }
 
 #services {
-  background: url(../img/building.jpg) 
-  no-repeat top center fixed;
+  background: url(../img/building.jpg) no-repeat top center fixed;
   background-size: cover;
   min-height: 300px;
   position: relative;
@@ -86,6 +85,14 @@ img {
 
 .listing-preview a {
   position: relative;
+}
+
+.thumbs a img {
+  height: 100px;
+  width: 120px;
+  border: none;
+  justify-content: center;
+  align-content: center;
 }
 
 @media (max-width: 991px) {
