@@ -134,7 +134,7 @@ MESSAGE_TAGS = {
 # Email config
 EMAIL_HOST = 'smtp.dreamhost.com'
 EMAIL_PORT = 465
-EMAIL_HOST_USER = 'Secret'
+EMAIL_HOST_USER = 'something@gmail.com'
 EMAIL_HOST_PASSWORD = 'Secret'
-# EMAIL_USE_TLS = True
+#EMAIL_USE_TLS = True
 EMAIL_USE_SSL = True
